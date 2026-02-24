@@ -7,8 +7,11 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohithkumar-dev&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rohithkumar-dev&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithkumar-dev&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats:
+
+![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithkumar-dev&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rohithkumar-dev&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithkumar-dev&layout=compact&theme=tokyonight)
