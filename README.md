@@ -10,16 +10,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumar-dev&theme=radical" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar-dev&layout=compact&theme=radical" />
-
-</p>
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical)
