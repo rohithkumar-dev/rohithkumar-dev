@@ -8,6 +8,11 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical" 
+    height="165"
+  />
+</p>
