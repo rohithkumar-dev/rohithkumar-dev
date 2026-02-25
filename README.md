@@ -8,11 +8,21 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🔥 Rohit's GitHub Stats 🔥</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical" 
-    height="165"
-  />
+  
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="180"/>
+
+  <br><br>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitkumar-dev&theme=radical" height="180"/>
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar-dev&layout=compact&theme=radical" height="180"/>
+
 </p>
