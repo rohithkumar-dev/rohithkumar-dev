@@ -8,18 +8,18 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitkumar-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=60" />
+<br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumar-dev&theme=radical" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumar-dev&theme=radical&cache_seconds=60" />
+<br/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar-dev&layout=compact&theme=radical&cache_seconds=60" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumar-dev&layout=compact&theme=radical" />
 
 </p>
